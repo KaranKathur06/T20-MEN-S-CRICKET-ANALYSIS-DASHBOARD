@@ -1,0 +1,7 @@
+streamlit
+requests
+pybase64
+plotly
+bs4
+Pillow
+matplotlib
